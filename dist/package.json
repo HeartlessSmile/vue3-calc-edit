@@ -1,0 +1,14 @@
+{
+  "name": "vue3-calc-edit",
+  "version": "1.0.1",
+  "description": "基于vue3的计算公式编辑器",
+  "private": false,
+  "type": "module",
+  "main": "vue3-calc-edit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
